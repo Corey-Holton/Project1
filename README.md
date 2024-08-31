@@ -20,7 +20,7 @@ This project analyzes global agricultural production relative to population data
 
 ## Data Sources
 
-The project uses the following datasets:
+The project uses the following datasets which are stored in the Resource folder:
 
 1. **World Population Data**: `world_population_data.csv`
 2. **Agricultural Production Data**: `Production_Crops_Livestock_E_All_Data.csv`
@@ -52,7 +52,7 @@ Links to data
    ```bash
    git clone https://github.com/Corey-Holton/Project1.git
    cd your-repository
-Usage
+## Usage
 ## 1. Loading the Data
 Load the required datasets using pandas:
 
@@ -97,6 +97,8 @@ The project uses Matplotlib to generate various plots, including:
 - Production_Crops_Livestock_E_All_Data.csv: Comprehensive data on agricultural production for various crops and livestock.
 - API_SP.POP.TOTL_DS2_en_csv_v2_3401680.csv: Additional population data used to enrich the main dataset.
 - Lists_test.csv: Contains mapping of agricultural items to their respective categories.
+## Results
+# Waiting on results
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
