@@ -43,6 +43,7 @@ Links to data
   - pathlib
   - prophet
   - datetime
+  - seaborn
   - ipywidgets
   - jupyter (optional, for interactive widgets)
 
