@@ -44,6 +44,7 @@ Links to data
   - prophet
   - datetime
   - seaborn
+  - from scipy.stats import pearsonr, spearmanr
   - ipywidgets
   - jupyter (optional, for interactive widgets)
 
