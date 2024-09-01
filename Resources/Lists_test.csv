@@ -6,11 +6,6 @@ Butter of cow milk,Dairy
 Butter of goat milk,Dairy
 "Buttermilk, dry",Dairy
 Cheese (All Kinds),Dairy
-"Cheese from milk of buffalo, fresh or processed",Dairy
-"Cheese from milk of goats, fresh or processed",Dairy
-"Cheese from milk of sheep, fresh or processed",Dairy
-Cheese from skimmed cow milk,Dairy
-Cheese from whole cow milk,Dairy
 "Cream, fresh",Dairy
 Evaporated & Condensed Milk,Dairy
 "Milk, Total",Dairy
@@ -38,13 +33,11 @@ Bananas,Fruit
 Blueberries,Fruit
 Cantaloupes and other melons,Fruit
 Cherries,Fruit
-"Citrus Fruit, Total",Fruit
 "Coconuts, in shell",Fruit
 Cranberries,Fruit
 Currants,Fruit
 Dates,Fruit
 Figs,Fruit
-Fruit Primary,Fruit
 Gooseberries,Fruit
 Grapes,Fruit
 Kapok fruit,Fruit
@@ -76,8 +69,6 @@ Watermelons,Fruit
 Barley,Grain
 Buckwheat,Grain
 Canary seed,Grain
-Cereals n.e.c.,Grain
-"Cereals, primary",Grain
 Maize (corn),Grain
 Millet,Grain
 Mixed grain,Grain
@@ -89,44 +80,15 @@ Soya beans,Grain
 Wheat,Grain
 Natural honey,Honey
 Asses,Meat
-"Beef and Buffalo Meat, primary",Meat
 Buffalo,Meat
 Camels,Meat
 Cattle,Meat
-Cattle and Buffaloes,Meat
 Chickens,Meat
 Ducks,Meat
-"Edible offal of buffalo, fresh, chilled or frozen",Meat
-"Edible offal of cattle, fresh, chilled or frozen",Meat
-"Edible offal of goat, fresh, chilled or frozen",Meat
-"Edible offal of pigs, fresh, chilled or frozen",Meat
-"Edible offal of sheep, fresh, chilled or frozen",Meat
-"Edible offals of camels and other camelids, fresh, chilled or frozen",Meat
-"Edible offals of horses and other equines,  fresh, chilled or frozen",Meat
-"Game meat, fresh, chilled or frozen",Meat
 Geese,Meat
 Goats,Meat
-"Horse meat, fresh or chilled",Meat
 Horses,Meat
-"Meat of asses, fresh or chilled",Meat
-"Meat of buffalo, fresh or chilled",Meat
-"Meat of camels, fresh or chilled",Meat
-"Meat of cattle with the bone, fresh or chilled",Meat
-"Meat of chickens, fresh or chilled",Meat
-"Meat of ducks, fresh or chilled",Meat
-"Meat of geese, fresh or chilled",Meat
-"Meat of goat, fresh or chilled",Meat
-"Meat of mules, fresh or chilled",Meat
-"Meat of pig with the bone, fresh or chilled",Meat
-"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",Meat
-"Meat of rabbits and hares, fresh or chilled",Meat
-"Meat of sheep, fresh or chilled",Meat
-"Meat of turkeys, fresh or chilled",Meat
-"Meat, Poultry",Meat
-"Meat, Total",Meat
 Mules and hinnies,Meat
-"Other meat n.e.c. (excluding mammals), fresh, chilled or frozen",Meat
-Poultry Birds,Meat
 Rabbits and hares,Meat
 Sheep,Meat
 Sheep and Goat Meat,Meat
@@ -186,12 +148,10 @@ Okra,Vegetable
 "Pigeon peas, dry",Vegetable
 Potatoes,Vegetable
 "Pumpkins, squash and gourds",Vegetable
-"Roots and Tubers, Total",Vegetable
 Spinach,Vegetable
 String beans,Vegetable
 Sugar beet,Vegetable
 Sweet potatoes,Vegetable
 Taro,Vegetable
 Tomatoes,Vegetable
-Vegetables Primary,Vegetable
 Yams,Vegetable
